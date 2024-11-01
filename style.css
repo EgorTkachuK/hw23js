@@ -1,0 +1,15 @@
+
+ul{
+    list-style-type: none;
+}
+
+body{
+    height: 2000px;
+}
+
+
+.brasil_list{
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+}
